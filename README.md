@@ -11,7 +11,7 @@ Some games require bios up-down. cleaner included**
 
 --------------------------------------------------------------------------------------
 Updated Time : 03/13/2022
-Next Update : if it doesn't work
+Next Update : if it doesn't work.
 
 Current Status your time is up to you
 
